@@ -1,4 +1,4 @@
-public class Duck extends Solution implements CanSwim,CanFly,CanRun{
+public class Duck implements CanSwim,CanFly,CanRun{
 
 
     @Override
